@@ -1,6 +1,5 @@
 // File to load a list of positions from json
 
-import 'dart:convert';
 import 'position.dart';
 import 'positionTimestamp.dart';
 
